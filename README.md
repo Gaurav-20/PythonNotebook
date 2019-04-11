@@ -1,2 +1,2 @@
 # PythonNotebook
-Python Questions taken from UPSC Fever with their solutions included in it.
+Python is a high-level object oriented programming language. It consists of various libraries with various functionalities that help in reducing the work of the programmer. The Colab Notebook consists of Python Basics, Numpy, Matplotlib and Pandas tutorial along with questions and their answers. The tutorial was taken from UPSC Fever website and is a very good tool to begin with Python programming.
